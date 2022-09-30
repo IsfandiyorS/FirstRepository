@@ -3,3 +3,4 @@ Hello world!!!
 Good bye!
 line from user1
 git user1
+line from user2 - lesson about rebase
